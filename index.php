@@ -76,10 +76,10 @@ try {
             <a href="http://kesatriakeyboard.com/marketwatch/cron/job.php" target="_blank">Reload New Data</a>
             <div style="background: #4B515D; color: white; margin-top: 20px; padding: 10px;">
                 Data Taken From:<br/>
-                <a href="http://kkomputer.com"><img width="50px" height="50px" style="margin: 10px;" src="http://kesatriakeyboard.com/marketwatch/images/vendor/kkomputer.png" /></a>
-                <a href="http://klikgalaxy.com"><img width="50px" height="50px" style="margin: 10px;" src="http://kesatriakeyboard.com/marketwatch/images/vendor/klikgalaxy.png" /></a>
-                <a href="http://blossomzones.com"><img width="50px" height="50px" style="margin: 10px;" src="http://kesatriakeyboard.com/marketwatch/images/vendor/blossomzones.png" /></a>
-                <a href="http://tokopedia.com/enterid"><img width="50px" height="50px" style="margin: 10px;" src="http://kesatriakeyboard.com/marketwatch/images/vendor/enterid.png" /></a>
+                <a href="http://kkomputer.com"><img width="50px" height="50px" style="margin: 10px;" src="https://kesatriakeyboard.com/marketwatch/images/vendor/kkomputer.png" /></a>
+                <a href="http://klikgalaxy.com"><img width="50px" height="50px" style="margin: 10px;" src="https://kesatriakeyboard.com/marketwatch/images/vendor/klikgalaxy.png" /></a>
+                <a href="http://blossomzones.com"><img width="50px" height="50px" style="margin: 10px;" src="https://kesatriakeyboard.com/marketwatch/images/vendor/blossomzones.png" /></a>
+                <a href="http://tokopedia.com/enterid"><img width="50px" height="50px" style="margin: 10px;" src="https://kesatriakeyboard.com/marketwatch/images/vendor/enterid.png" /></a>
                 <br/>
                 &copy; 2017 - Kesatria Keyboard
             </div>
